@@ -1,59 +1,96 @@
-id	RESP	file_name	file_path
-1	COM	191204_JP_COM_CD_CODE_�����p�r�R�[�h.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\191204_JP_COM_CD_CODE_�����p�r�R�[�h.xlsx
-2	COM	200109_JP_COM_CD_CODE_���p�r�R�[�h.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\200109_JP_COM_CD_CODE_���p�r�R�[�h.xlsx
-3	COM	200109_JP_COM_CD_���p�r�������݃f�[�^.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\200109_JP_COM_CD_���p�r�������݃f�[�^.xlsx
-4	COM	200115_JP_COM_CD_Absorption.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\200115_JP_COM_CD_Absorption.xlsx
-5	COM	200115_JP_COM_CD_CODE_���p�r-�����}�b�s���O.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\200115_JP_COM_CD_CODE_���p�r-�����}�b�s���O.xlsx
-6	COM	191204_JP_COM_CD_CODE_���ʃR�[�h.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\000_����_COM\_NotUse\191204_JP_COM_CD_CODE_���ʃR�[�h.xlsx
-7	ARC	191206_JP_ARC_CD_Stair_Specs.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\001_���z_ARC\191206_JP_ARC_CD_Stair_Specs.xlsx
-8	ARC	200116_JP_ARC_CD_ProjectMaster_Finishes.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\001_���z_ARC\200116_JP_ARC_CD_ProjectMaster_Finishes.xlsx
-9	ARC	200117_JP_ARC_CD_ProjectMaster_Fixtures.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\001_���z_ARC\200117_JP_ARC_CD_ProjectMaster_Fixtures.xlsx
-10	STR	191223_JP_STR_CD_�\���ύډ׏d���X�g.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\002_�\��_STR\191223_JP_STR_CD_�\���ύډ׏d���X�g.xlsx
-11	MEP	191223_JP_MEP_CD_�ݔ����p�r.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r.xlsx
-12	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_condition.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_condition.xlsx
-13	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_load.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_load.xlsx
-14	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_system.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_A_system.xlsx
-15	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_lighting.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_lighting.xlsx
-16	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_load.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_load.xlsx
-17	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_outlet.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_outlet.xlsx
-18	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_TELLANTV.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_TELLANTV.xlsx
-19	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_���m��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_E_���m��.xlsx
-20	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_Gapp.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_Gapp.xlsx
-21	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_general.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_general.xlsx
-22	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_P_requirements.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_P_requirements.xlsx
-23	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_V_condition.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_V_condition.xlsx
-24	MEP	191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_V_system.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\��������\191223_JP_MEP_CD_�ݔ����p�r�������݃v���p�e�B_M_V_system.xlsx
-25	MEP	191225_JP_MEP_CD_�@����_���u.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ����������A�v��\191225_JP_MEP_CD_�@����_���u.xlsx
-26	MEP	200117_JP_MEP_CD_�@����_�`��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ����������A�v��\200117_JP_MEP_CD_�@����_�`��.xlsx
-27	MEP	200117_JP_MEP_CD_�o�H���ށA���������p�����[�^.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ����������A�v��\200117_JP_MEP_CD_�o�H���ށA���������p�����[�^.xlsx
-28	MEP	191118_JP_MEP_CD_�@�B�ݔ��@����_�v�Z�p.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\191118_JP_MEP_CD_�@�B�ݔ��@����_�v�Z�p.xlsx
-29	MEP	191126_JP_MEP_CD_���h�@.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\191126_JP_MEP_CD_���h�@.xlsx
-30	MEP	191212_JP_MEP_CD_�d�C�ݔ��@����_�v�Z�p.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\191212_JP_MEP_CD_�d�C�ݔ��@����_�v�Z�p.xlsx
-31	MEP	200107_JP_MEP_CD_���h�@_�댯��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200107_JP_MEP_CD_���h�@_�댯��.xlsx
-32	MEP	200107_JP_MEP_CD_���h�@_�R��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200107_JP_MEP_CD_���h�@_�R��.xlsx
-33	MEP	200107_JP_MEP_CD_���h�@_�h�ΑΏە��̗p�r�敪.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200107_JP_MEP_CD_���h�@_�h�ΑΏە��̗p�r�敪.xlsx
-34	MEP	200114_JP_MEP_CD_�ݔ��݌v�_��_���O����.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_��_���O����.xlsx
-35	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_��l������g�p����.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_��l������g�p����.xlsx
-36	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����g�p����.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����g�p����.xlsx
-37	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�r�����גP��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�r�����גP��.xlsx
-38	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����@��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����@��.xlsx
-39	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����M����.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�����M����.xlsx
-40	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�q�����d�l.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�q�����d�l.xlsx
-41	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�q��_�z�ǌa.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�q��_�z�ǌa.xlsx
-42	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�C���s�[�_���X.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�C���s�[�_���X.xlsx
-43	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�����W��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�����W��.xlsx
-44	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_���e�d��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_���e�d��.xlsx
-45	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�Ւf��T�C�Y.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�Ւf��T�C�Y.xlsx
-46	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���@�̕��חe��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���@�̕��חe��.xlsx
-47	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���@��H�̗e�ʂƎ劲��i�d��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���@��H�̗e�ʂƎ劲��i�d��.xlsx
-48	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���~���Ɠd���T�C�Y.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d���~���Ɠd���T�C�Y.xlsx
-49	MEP	200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d������.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\200114_JP_MEP_CD_�ݔ��݌v�_�d�C_�d������.xlsx
-50	MEP	191126_JP_MEP_CD_���h�@.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\old\191126_JP_MEP_CD_���h�@.xlsx
-51	MEP	191206_JP_MEP_CD_�ݔ��݌v�_��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\old\191206_JP_MEP_CD_�ݔ��݌v�_��.xlsx
-52	MEP	191206_JP_MEP_CD_�ݔ��݌v�_�q��.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\old\191206_JP_MEP_CD_�ݔ��݌v�_�q��.xlsx
-53	MEP	191206_JP_MEP_CD_�ݔ��݌v�_�d�C.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\old\191206_JP_MEP_CD_�ݔ��݌v�_�d�C.xlsx
-54	MEP	191207_JP_MEP_CD_���h�@_�댯����.xlsx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\003_�ݔ�_MEP\�ݔ��v�Z�E���h�A�v��\old\191207_JP_MEP_CD_���h�@_�댯����.xlsx
-55	MEP	191218_JP_ARC_�}�X�^��IFC�ւ̃}�b�s���O�̍l����.pptx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\999_Readme\191218_JP_ARC_�}�X�^��IFC�ւ̃}�b�s���O�̍l����.pptx
-56	MEP	191224_JP_MEP_�ݔ����p�r�Ɨ������݃v���p�e�B�̊֘A�t���ɂ���.pptx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\999_Readme\191224_JP_MEP_�ݔ����p�r�Ɨ������݃v���p�e�B�̊֘A�t���ɂ���.pptx
-57	MEP	200106_Common-DATA�@�^�@Project-DATA�@�y�f�[�^�̂��肩���тɍ�Ǝ菇�z.pdf	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\999_Readme\200106_Common-DATA�@�^�@Project-DATA�@�y�f�[�^�̂��肩���тɍ�Ǝ菇�z.pdf
-58	MEP	200106_Common-DATA�@�^�@Project-DATA�@�y�f�[�^�̂��肩���тɍ�Ǝ菇�z.pptx	Box\BIM�c�[���J����\050_���ʃx���_�[\101_Infosys\I_T_Shared\30_�݌v�E�J��_DC\34_�f�[�^���ڌ���\000_����_COM\CD_Tables\999_Readme\200106_Common-DATA�@�^�@Project-DATA�@�y�f�[�^�̂��肩���тɍ�Ǝ菇�z.pptx
+﻿,file_name,file_path
+0,191204_JP_COM_CD_CODE_建物用途コード.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\191204_JP_COM_CD_CODE_建物用途コード.xlsx
+1,200109_JP_COM_CD_CODE_室用途コード.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\200109_JP_COM_CD_CODE_室用途コード.xlsx
+2,200121_JP_COM_CD_AUTO_建物用途と室用途をキーとした室プロパティ自動入力データ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\200121_JP_COM_CD_AUTO_建物用途と室用途をキーとした室プロパティ自動入力データ.xlsx
+3,200123_JP_COM_CD_AUTO_室名をキーとした室用途自動入力データ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\200123_JP_COM_CD_AUTO_室名をキーとした室用途自動入力データ.xlsx
+4,200127_JP_COM_CD_Absorption.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\200127_JP_COM_CD_Absorption.xlsx
+5,191204_JP_COM_CD_CODE_部位コード.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\000_共通_COM\_NotUse\191204_JP_COM_CD_CODE_部位コード.xlsx
+6,191206_JP_ARC_CD_Stair_Specs.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\001_建築_ARC\191206_JP_ARC_CD_Stair_Specs.xlsx
+7,200121_JP_ARC_CD_ProjectMaster_Fixtures.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\001_建築_ARC\200121_JP_ARC_CD_ProjectMaster_Fixtures.xlsx
+8,200127_JP_ARC_CD_ProjectMaster_Finishes.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\001_建築_ARC\200127_JP_ARC_CD_ProjectMaster_Finishes.xlsx
+9,191223_JP_STR_CD_構造積載荷重リスト.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\002_構造_STR\191223_JP_STR_CD_構造積載荷重リスト.xlsx
+10,191223_JP_MEP_CD_設備室用途.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途.xlsx
+11,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_condition.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_condition.xlsx
+12,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_load.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_load.xlsx
+13,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_system.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_A_system.xlsx
+14,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_lighting.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_lighting.xlsx
+15,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_load.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_load.xlsx
+16,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_outlet.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_outlet.xlsx
+17,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_TELLANTV.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_TELLANTV.xlsx
+18,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_感知器.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_E_感知器.xlsx
+19,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_Gapp.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_Gapp.xlsx
+20,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_general.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_general.xlsx
+21,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_P_requirements.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_P_requirements.xlsx
+22,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_V_condition.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_V_condition.xlsx
+23,191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_V_system.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備室用途をキーとした室プロパティ自動入力\191223_JP_MEP_CD_設備室用途流し込みプロパティ_M_V_system.xlsx
+24,200117_JP_MEP_CD_機器器具_形状.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200117_JP_MEP_CD_機器器具_形状.xlsx
+25,200121_JP_MEP_CD_RouteDuct.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_RouteDuct.xlsx
+26,200121_JP_MEP_CD_RouteElec.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_RouteElec.xlsx
+27,200121_JP_MEP_CD_RouteGradient.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_RouteGradient.xlsx
+28,200121_JP_MEP_CD_RoutePipe.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_RoutePipe.xlsx
+29,200121_JP_MEP_CD_RouteUsage.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_RouteUsage.xlsx
+30,200121_JP_MEP_CD_機器器具_離隔G002.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200121_JP_MEP_CD_機器器具_離隔G002.xlsx
+31,200124_JP_MEP_CD_生成アプリ規定値.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200124_JP_MEP_CD_生成アプリ規定値.xlsx
+32,200129_JP_MEP_CD_機器器具_離隔G005.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備自動生成アプリ\200129_JP_MEP_CD_機器器具_離隔G005.xlsx
+33,200114_JP_MEP_CD_設備設計基準_空調_屋外条件.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_空調_屋外条件.xlsx
+34,200114_JP_MEP_CD_設備設計基準_衛生_一人当たり使用水量.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_一人当たり使用水量.xlsx
+35,200114_JP_MEP_CD_設備設計基準_衛生_同時使用流量.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_同時使用流量.xlsx
+36,200114_JP_MEP_CD_設備設計基準_衛生_排水負荷単位.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_排水負荷単位.xlsx
+37,200114_JP_MEP_CD_設備設計基準_衛生_給湯機器.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_給湯機器.xlsx
+38,200114_JP_MEP_CD_設備設計基準_衛生_給湯熱損失.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_給湯熱損失.xlsx
+39,200114_JP_MEP_CD_設備設計基準_衛生_衛生器具仕様.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_衛生器具仕様.xlsx
+40,200114_JP_MEP_CD_設備設計基準_衛生_配管径.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_衛生_配管径.xlsx
+41,200114_JP_MEP_CD_設備設計基準_電気_インピーダンス.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_インピーダンス.xlsx
+42,200114_JP_MEP_CD_設備設計基準_電気_幹線係数.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_幹線係数.xlsx
+43,200114_JP_MEP_CD_設備設計基準_電気_許容電流.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_許容電流.xlsx
+44,200114_JP_MEP_CD_設備設計基準_電気_遮断器サイズ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_遮断器サイズ.xlsx
+45,200114_JP_MEP_CD_設備設計基準_電気_電動機の負荷容量.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_電動機の負荷容量.xlsx
+46,200114_JP_MEP_CD_設備設計基準_電気_電動機回路の容量と主幹定格電流.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_電動機回路の容量と主幹定格電流.xlsx
+47,200114_JP_MEP_CD_設備設計基準_電気_電圧降下と電線サイズ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_電圧降下と電線サイズ.xlsx
+48,200114_JP_MEP_CD_設備設計基準_電気_電流減少.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200114_JP_MEP_CD_設備設計基準_電気_電流減少.xlsx
+49,200117_JP_MEP_CD_機械設備機器器具部材_スプリンクラー.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_スプリンクラー.xlsx
+50,200117_JP_MEP_CD_機械設備機器器具部材_ボイラ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_ボイラ.xlsx
+51,200117_JP_MEP_CD_機械設備機器器具部材_ポンプ.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_ポンプ.xlsx
+52,200117_JP_MEP_CD_機械設備機器器具部材_全熱交換機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_全熱交換機.xlsx
+53,200117_JP_MEP_CD_機械設備機器器具部材_冷凍機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_冷凍機.xlsx
+54,200117_JP_MEP_CD_機械設備機器器具部材_冷却塔.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_冷却塔.xlsx
+55,200117_JP_MEP_CD_機械設備機器器具部材_制気口.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_制気口.xlsx
+56,200117_JP_MEP_CD_機械設備機器器具部材_受水槽消火補給水槽.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_受水槽消火補給水槽.xlsx
+57,200117_JP_MEP_CD_機械設備機器器具部材_室内機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_室内機.xlsx
+58,200117_JP_MEP_CD_機械設備機器器具部材_室外機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_室外機.xlsx
+59,200117_JP_MEP_CD_機械設備機器器具部材_排煙口.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_排煙口.xlsx
+60,200117_JP_MEP_CD_機械設備機器器具部材_排煙機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_排煙機.xlsx
+61,200117_JP_MEP_CD_機械設備機器器具部材_機器共通.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_機器共通.xlsx
+62,200117_JP_MEP_CD_機械設備機器器具部材_空調機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_空調機.xlsx
+63,200117_JP_MEP_CD_機械設備機器器具部材_送風機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_機械設備機器器具部材_送風機.xlsx
+64,200117_JP_MEP_CD_照明率.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_照明率.xlsx
+65,200117_JP_MEP_CD_電気設備機器器具部材_オイルタンク.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_オイルタンク.xlsx
+66,200117_JP_MEP_CD_電気設備機器器具部材_スピーカー.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_スピーカー.xlsx
+67,200117_JP_MEP_CD_電気設備機器器具部材_制御盤.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_制御盤.xlsx
+68,200117_JP_MEP_CD_電気設備機器器具部材_動力盤.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_動力盤.xlsx
+69,200117_JP_MEP_CD_電気設備機器器具部材_感知器.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_感知器.xlsx
+70,200117_JP_MEP_CD_電気設備機器器具部材_機器共通.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_機器共通.xlsx
+71,200117_JP_MEP_CD_電気設備機器器具部材_照明器具共通.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_照明器具共通.xlsx
+72,200117_JP_MEP_CD_電気設備機器器具部材_発電機.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_発電機.xlsx
+73,200117_JP_MEP_CD_電気設備機器器具部材_端子盤.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_端子盤.xlsx
+74,200117_JP_MEP_CD_電気設備機器器具部材_電灯盤.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_電灯盤.xlsx
+75,200117_JP_MEP_CD_電気設備機器器具部材_高低圧配電盤.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200117_JP_MEP_CD_電気設備機器器具部材_高低圧配電盤.xlsx
+76,200122_JP_MEP_CD_消防法.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200122_JP_MEP_CD_消防法.xlsx
+77,200122_JP_MEP_CD_消防法_危険物.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200122_JP_MEP_CD_消防法_危険物.xlsx
+78,200122_JP_MEP_CD_消防法_可燃物.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200122_JP_MEP_CD_消防法_可燃物.xlsx
+79,200122_JP_MEP_CD_消防法_防火対象物の用途区分.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\200122_JP_MEP_CD_消防法_防火対象物の用途区分.xlsx
+80,191118_JP_MEP_CD_機械設備機器器具_計算用.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191118_JP_MEP_CD_機械設備機器器具_計算用.xlsx
+81,191126_JP_MEP_CD_消防法.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191126_JP_MEP_CD_消防法.xlsx
+82,191206_JP_MEP_CD_設備設計基準_空調.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191206_JP_MEP_CD_設備設計基準_空調.xlsx
+83,191206_JP_MEP_CD_設備設計基準_衛生.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191206_JP_MEP_CD_設備設計基準_衛生.xlsx
+84,191206_JP_MEP_CD_設備設計基準_電気.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191206_JP_MEP_CD_設備設計基準_電気.xlsx
+85,191207_JP_MEP_CD_消防法_危険物等.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191207_JP_MEP_CD_消防法_危険物等.xlsx
+86,191212_JP_MEP_CD_電気設備機器器具_計算用.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\191212_JP_MEP_CD_電気設備機器器具_計算用.xlsx
+87,200107_JP_MEP_CD_消防法_危険物.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\200107_JP_MEP_CD_消防法_危険物.xlsx
+88,200107_JP_MEP_CD_消防法_可燃物.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\200107_JP_MEP_CD_消防法_可燃物.xlsx
+89,200107_JP_MEP_CD_消防法_防火対象物の用途区分.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\200107_JP_MEP_CD_消防法_防火対象物の用途区分.xlsx
+90,200117_JP_MEP_CD_電気設備機器器具部材_syspro.xlsx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\003_設備_MEP\設備計算・消防アプリ\old\200117_JP_MEP_CD_電気設備機器器具部材_syspro.xlsx
+91,191218_JP_ARC_マスタ→IFCへのマッピングの考え方.pptx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\999_Readme\191218_JP_ARC_マスタ→IFCへのマッピングの考え方.pptx
+92,191224_JP_MEP_設備室用途と流し込みプロパティの関連付けについて.pptx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\999_Readme\191224_JP_MEP_設備室用途と流し込みプロパティの関連付けについて.pptx
+93,200106_Common-DATA　／　Project-DATA　【データのありか並びに作業手順】.pdf,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\999_Readme\200106_Common-DATA　／　Project-DATA　【データのありか並びに作業手順】.pdf
+94,200106_Common-DATA　／　Project-DATA　【データのありか並びに作業手順】.pptx,Box\BIMツール開発室\050_共通ベンダー\101_Infosys\I_T_Shared\30_設計・開発_DC\34_データ項目検討\000_共通_COM\CD_Tables\999_Readme\200106_Common-DATA　／　Project-DATA　【データのありか並びに作業手順】.pptx
